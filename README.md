@@ -12,4 +12,4 @@ I'm building this portfolio using simple Markdown files hosted on GitHub Pages.
 * [Project Two](https://github.com/your-username) - Another cool thing I built.
 
 ## Get in Touch
-You can find my code on [GitHub](https://github.com/your-username) or connect with me elsewhere.
+You can find my code on [GitHub](https://github.com/your-username) or connect with me elsewhere. uwu
