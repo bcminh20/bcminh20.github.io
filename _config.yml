@@ -1,1 +1,3 @@
-theme: jekyll-theme-cayman
+title: "My Category Blog"
+description: "A personal blog hosted on GitHub Pages"
+theme: minima
